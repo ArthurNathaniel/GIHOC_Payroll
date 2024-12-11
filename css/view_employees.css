@@ -17,7 +17,7 @@ table {
 }
 
 th {
-  background-color: #333;
+  background-color: #F80309;
   color: #fefefe;
 }
 
@@ -83,7 +83,7 @@ th {
 .modal_delete button{
     padding: 15px 45px;
     border: none;
-    background-color: #333;
+    background-color: #F80309;
     color: #FFF;
 }
 
@@ -94,11 +94,11 @@ th {
 }
 
 .fa-eye{
-    color: #333;
+    color: #F80309;
 }
 
 .fa-user-pen{
-    color: #333;
+    color: #F80309;
 }
 .fa-trash{
     color: #fc5185;
